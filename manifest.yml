@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: aplicacao-de-teste-julio
+  host: aplicacao-de-teste-julio
+  disk_quota: 1024M
+  services:
+  - aplicacao-de-teste-julio-AdvancedMobileAccess
+  - aplicacao-de-teste-julio-imfpush
+  - aplicacao-de-teste-julio-cloudantNoSQLDB
