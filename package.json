@@ -7,7 +7,7 @@
     "start": "node ."
   },
   "author": "Anton Aleksandrov",
-  boo"dependencies": {
+  "dependencies": {
     "bms-mca-token-validation-strategy": "2.x",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
