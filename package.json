@@ -7,7 +7,7 @@
     "start": "node ."
   },
   "author": "Anton Aleksandrov",
-  "dependencies": {
+  boo"dependencies": {
     "bms-mca-token-validation-strategy": "2.x",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
@@ -17,7 +17,8 @@
     "loopback-connector-mysql": "^2.2.0",
     "loopback-datasource-juggler": "^2.39.0",
     "passport": "^0.3.2",
-    "serve-favicon": "^2.0.1"
+    "serve-favicon": "^2.0.1",
+    "cfenv":"", "loopback-connector-couch":""
   },
   "repository": {
     "type": "git",
